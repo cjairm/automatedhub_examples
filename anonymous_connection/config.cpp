@@ -4,7 +4,7 @@
 const char* WIFI_SSID = "<wifi-name>";
 const char* WIFI_PASSWORD = "<wifi-password>";
 
-const char* MQTT_SERVER = "<mqtt-local-ip>";
+const char* MQTT_SERVER = "3.22.201.62";
 const int MQTT_PORT = 1883;
 
 const char* DEVICE_NAME = "arduino_test";
